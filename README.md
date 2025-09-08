@@ -1,3 +1,5 @@
+Week_2_Python_My_List
+
 Submiting a github repo link for the "my list" assignment as follows:
 Create an empty list called my_list.
 Append the following elements to my_list: 10, 20, 30, 40.
